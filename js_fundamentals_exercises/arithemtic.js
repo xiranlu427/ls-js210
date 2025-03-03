@@ -1,4 +1,4 @@
-rlSync = require('readline-sync');
+let rlSync = require('readline-sync');
 
 let num1 = parseInt(rlSync.question('==> Enter the first number:\n'));
 
